@@ -1,5 +1,5 @@
 # Customer-Analytics
-Projects, Studies &amp; Reports related to Customer Analytics
+- My Projects, Studies &amp; Reports related to Customer Analytics
 
 ## Sources:
  - [Miuul Data Analytics Bootcamp](https://miuul.com/data-analyst-bootcamp)
