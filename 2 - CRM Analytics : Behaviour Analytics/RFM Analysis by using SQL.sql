@@ -39,11 +39,11 @@ FROM onlineretaildb.dbo.retail_2010_2011
 --SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE column_name IS NULL;
 SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE Invoice IS NULL;
 SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE StockCode IS NULL;
-SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE [Description] IS NULL; -- Description kısmı boş satırlar mevcut
+SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE [Description] IS NULL; -- There are NULL values in [Description] columns 
 SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE Quantity IS NULL;
 SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE InvoiceDate IS NULL;
 SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE Price IS NULL;
-SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE Customer_ID IS NULL;  -- CustomerID değeri boş satırlar mevcut
+SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE Customer_ID IS NULL;  -- There are NULL values in Customer_ID columns 
 SELECT * FROM onlineretaildb.dbo.retail_2010_2011 WHERE Country IS NULL;
 
 -- e. Variable types, review.
