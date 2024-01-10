@@ -1,6 +1,8 @@
 # Case Study - Basket Analysis for Retail Data
 
-We have a retail dataset that includes information on invoices, stock codes, product descriptions, quantities, prices, customer IDs, countries, and invoice dates.
+Source: [Online Retail II  Dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+
+The Online Retail dataset contains sales data from a UK-based online store between December 1, 2009 and December 9, 2011 and that includes information on invoices, stock codes, product descriptions, quantities, prices, customer IDs, countries, and invoice dates.
 
 - Period: 2010 - 2011 
 
