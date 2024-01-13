@@ -1,16 +1,15 @@
 # Customer-Analytics
 ## My Projects, Studies &amp; Reports related to Customer Analytics
 
-  - [**Customer Segmentation**](https://github.com/BedirK/Customer-Analytics/tree/main/1%20-%20Customer%20Segmentation)
+  - **Customer Segmentation**
   
- -  [**CRM Analytics: Behaviour Analytics**](https://github.com/BedirK/Customer-Analytics/tree/main/2%20-%20CRM%20Analytics%20%3A%20Behaviour%20Analytics)
+ -  **CRM Analytics: Behaviour Analytics**
   
-  - [**Customer Intent Analytics**](https://github.com/BedirK/Customer-Analytics/tree/main/3%20-%20Customer%20Intent%20Analytics)
+  - **Customer Intent Analytics**
   
-   - [**Customer Journey Analysis**](https://github.com/BedirK/Customer-Analytics/tree/main/4%20-%20Customer%20Journey%20Analysis)
+   - **Customer Journey Analysis**
  
-   - [**Persona Definition**](https://github.com/BedirK/Customer-Analytics/tree/main/5%20-%20Persona%20Definition)
- 
+   - **Persona Definition**
 
 
 ## Sources:
