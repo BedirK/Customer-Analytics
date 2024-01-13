@@ -1,15 +1,16 @@
 # Customer-Analytics
+
 ## My Projects, Studies &amp; Reports related to Customer Analytics
 
-  - **Customer Segmentation**
+  - Customer Segmentation
   
- -  **CRM Analytics: Behaviour Analytics**
+ -  CRM Analytics: Behaviour Analytics
   
-  - **Customer Intent Analytics**
+  - Customer Intent Analytics
   
-   - **Customer Journey Analysis**
+   - Customer Journey Analysis
  
-   - **Persona Definition**
+   - Persona Definition
 
 
 ## Sources:
