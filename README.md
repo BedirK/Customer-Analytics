@@ -10,7 +10,6 @@
   
    - Customer Journey Analysis
  
-   - Persona Definition
 
 
 ## Sources:
